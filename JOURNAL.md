@@ -10,6 +10,8 @@
 * with the c channel i made a mistake to import the mesh with a lot of thriangles that made it really slow i did not know how to change that so i actually did not fix it because i could not find a good way.
 * i also learned of that i need to modify a model for printing that i make it different models
 * i also am an absolute beginner i watched 8 hours of tutorials but now i am just trying
+<img width="1002" height="707" alt="image" src="https://github.com/user-attachments/assets/754ee2e0-0c55-461d-859b-bb19d97d91fe" />
+
 
 
 ## 6-9-26 - small basket frame and finished
@@ -21,3 +23,5 @@
 
 * i learned that i needed to make it a bit bigger to fit it with a 3d printer also i made my skills with fusion better
 * i also learned that i need to change some things to make it more usefull
+<img width="1630" height="977" alt="image" src="https://github.com/user-attachments/assets/2332b7f7-f0df-412e-9761-223967fa18c0" />
+
