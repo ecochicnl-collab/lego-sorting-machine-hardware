@@ -12,6 +12,7 @@
 * i also learned of that i need to modify a model for printing that i make it different models
 * i also am an absolute beginner i watched 8 hours of tutorials but now i am just trying
 
+![Small basket back view](assets/journal-images/eerste_versie_bakje_achterkant.png)
 
 
 
