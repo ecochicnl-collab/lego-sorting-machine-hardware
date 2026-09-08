@@ -27,4 +27,11 @@
 * i learned that i needed to make it a bit bigger to fit it with a 3d printer also i made my skills with fusion better
 * i also learned that i need to change some things to make it more usefull
 
+## 8-9-26 - image testing
+
+<img width="996" height="712" alt="image" src="https://github.com/user-attachments/assets/81215e59-5716-4ace-be58-288c3efea697" />
+
+
+
+
 
