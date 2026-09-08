@@ -12,7 +12,8 @@
 * i also learned of that i need to modify a model for printing that i make it different models
 * i also am an absolute beginner i watched 8 hours of tutorials but now i am just trying
 
-![Small basket back view](assets/journal-images/eerste_versie_bakje_achterkant.png)
+<img width="996" height="712" alt="image" src="https://github.com/user-attachments/assets/ffba4f2f-2c30-4f08-9c01-15bfae77b19c" />
+
 
 
 
